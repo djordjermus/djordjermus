@@ -1,4 +1,4 @@
-# Introduction<br/>
+# Uvod<br/>
 Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Trenutno završavam u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**.
 # Projekti<br/>
 Multimedijska biblioteka (trenutno suspendovan u alfa stanju, dok ne završim sa diplomom)<br/>
