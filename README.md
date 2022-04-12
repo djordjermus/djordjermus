@@ -1,9 +1,8 @@
 # Introduction<br/>
-My name is **Đorđe Rmuš**, I use the C language family (C/C++/C#) in my projects and I am currently working on a multimedia API.
-
-# Projects<br/>
-[Cauldron(Repository)](https://github.com/djordjermus/Cauldron) - Multimedia Library (Currently in alpha)<br/>
-[Cauldron Update Playlist(YouTube)](https://www.youtube.com/playlist?list=PLVgq-T35xBASb_XwtzSRuessCG5BU2ZE2)<br/><br/>
+Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Trenutno završavam u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**.
+# Projekti<br/>
+[Cauldron(Repozitorium)](https://github.com/djordjermus/Cauldron) - Multimedijska biblioteka (trenutno suspendovan u alfa stanju, dok ne završim sa diplomom)<br/>
+[Cauldron(YouTube)](https://www.youtube.com/playlist?list=PLVgq-T35xBASb_XwtzSRuessCG5BU2ZE2)<br/><br/>
 I Also made a game for LowRezJam in Unity<br/>
 LowRezJam is a game jam where games are restricted to use a 64x64 display<br/>
 [PenguinQuest(Itch.io)](https://djordjermus.itch.io/penguin-quest)<br/>
