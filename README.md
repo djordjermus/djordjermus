@@ -2,7 +2,7 @@
 Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Trenutno završavam školovanje u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**.
 # Projekti<br/>
 Multimedijska biblioteka. (ternutno u izradi, kao zavrsni rad osnovnih studija)<br/>
-**[Cauldron(Repozitorium)](https://github.com/djordjermus/Cauldron)**
+**[Cauldron(Repozitorium)](https://github.com/djordjermus/Cauldron)**<br/>
 **[Cauldron demo(YouTube)](https://www.youtube.com/playlist?list=PLVgq-T35xBASb_XwtzSRuessCG5BU2ZE2)**<br/><br/>
 
 Napravio sam igricu za LowRezJam takmičenje u **Unity**.<br/>
