@@ -1,4 +1,4 @@
-#EN<br\>
+# EN<br/>
 # Introduction<br/>
 My name is **Đorđe Rmuš**, In my projects i usually use the C family of languages(C, C++, C#). Currently I am graduating **The School of Electrical and Computer Engineering of Applied Studies**, specializing in **Computer engeneering**.
 # Projects<br/>
@@ -19,7 +19,7 @@ BrainFuck interpreter in C++.<br/>
 # Contact<br/>
 You can always reach me over the email email-a: **djordje.rmus2000@gmail.com**
 
-#SR<br\>
+# SRB<br/>
 # Uvod<br/>
 Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Trenutno završavam školovanje u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**.
 # Projekti<br/>
