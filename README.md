@@ -17,7 +17,7 @@ BrainFuck interpreter in C++.<br/>
 **[Emulator(Repository)](https://github.com/djordjermus/Emulator)**
 
 # Contact<br/>
-You can always reach me over the email email-a: **djordje.rmus2000@gmail.com**
+You can always reach me over the email: **djordje.rmus2000@gmail.com**
 
 # SRB<br/>
 # Uvod<br/>
