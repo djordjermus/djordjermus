@@ -2,7 +2,7 @@
 # Introduction<br/>
 My name is **Đorđe Rmuš**, In my projects i usually use the C family of languages(C, C++, C#). Currently I am graduating **The School of Electrical and Computer Engineering of Applied Studies**, specializing in **Computer engeneering**.
 # Projects<br/>
-GUI library. (work in progress, final work for school)<br/>
+GUI library.</br>
 **[Cauldron(Repository)](https://github.com/djordjermus/Cauldron)**<br/>
 **[Cauldron demo(YouTube)](https://www.youtube.com/playlist?list=PLVgq-T35xBASb_XwtzSRuessCG5BU2ZE2)**<br/><br/>
 
