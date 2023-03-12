@@ -1,6 +1,6 @@
 # EN<br/>
 # Introduction<br/>
-My name is **Đorđe Rmuš**, In my projects i usually use the C family of languages(C, C++, C#). Currently I am graduating **The School of Electrical and Computer Engineering of Applied Studies**, specializing in **Computer engeneering**.
+My name is **Đorđe Rmuš**, In my projects i usually use the C family of languages(C, C++, C#). I have graduated **The School of Electrical and Computer Engineering of Applied Studies**, specializing in **Computer engeneering**. Currently working as a **Junior backend developer**.
 # Projects<br/>
 GUI library.</br>
 **[Cauldron(Repository)](https://github.com/djordjermus/Cauldron)**<br/>
@@ -21,7 +21,7 @@ You can always reach me over the email: **djordje.rmus2000@gmail.com**
 
 # SRB<br/>
 # Uvod<br/>
-Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Trenutno završavam školovanje u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**.
+Zovem se **Đorđe Rmuš**, uglavnom koristim c familiju jezika (C/C++/C#) u mojim projektima. Školovao sam se u **Visokoj Školi Elektrotehnike i Računarstva**, na smeru **Računarske tehnike**. Trenutno radim kao **Junior backend developer**.
 # Projekti<br/>
 Multimedijska biblioteka. (ternutno u izradi, kao zavrsni rad osnovnih studija)<br/>
 **[Cauldron(Repozitorium)](https://github.com/djordjermus/Cauldron)**<br/>
