@@ -10,9 +10,6 @@ I've made a game for LowRezJam gamejam in **Unity**.<br/>
 LowRezJam requires a display size be no larger than 64x64.<br/>
 **[PenguinQuest(Itch.io)](https://djordjermus.itch.io/penguin-quest)**<br/>
 
-BrainFuck interpreter in C++.<br/>
-**[Brainfuck Interpreter(Repository)](https://github.com/djordjermus/BFInterpreter)**<br/>
-
 16-bit processor emulator written in C#. Solution composed from two projects - Emulator library and a WinForms GUI environment for the emulator.<br/>
 **[Emulator(Repository)](https://github.com/djordjermus/Emulator)**
 
